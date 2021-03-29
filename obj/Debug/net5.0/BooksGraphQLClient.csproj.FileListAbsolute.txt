@@ -1,0 +1,17 @@
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/bin/Debug/net5.0/BooksGraphQLClient.deps.json
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/bin/Debug/net5.0/BooksGraphQLClient.runtimeconfig.json
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/bin/Debug/net5.0/BooksGraphQLClient.runtimeconfig.dev.json
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/bin/Debug/net5.0/BooksGraphQLClient.dll
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/bin/Debug/net5.0/ref/BooksGraphQLClient.dll
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/bin/Debug/net5.0/BooksGraphQLClient.pdb
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/obj/Debug/net5.0/BooksGraphQLClient.csprojAssemblyReference.cache
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/obj/Debug/net5.0/BooksGraphQLClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/obj/Debug/net5.0/BooksGraphQLClient.AssemblyInfoInputs.cache
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/obj/Debug/net5.0/BooksGraphQLClient.AssemblyInfo.cs
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/obj/Debug/net5.0/BooksGraphQLClient.csproj.CoreCompileInputs.cache
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/obj/Debug/net5.0/BooksGraphQLClient.csproj.CopyComplete
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/obj/Debug/net5.0/BooksGraphQLClient.dll
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/obj/Debug/net5.0/ref/BooksGraphQLClient.dll
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/obj/Debug/net5.0/BooksGraphQLClient.pdb
+/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/obj/Debug/net5.0/BooksGraphQLClient.genruntimeconfig.cache
