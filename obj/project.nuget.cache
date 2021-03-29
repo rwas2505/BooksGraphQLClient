@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bEJL6G18CaEsZvk+Wnb4MpLDaRv7Gg6hdBTgclYEcb6Z7w7UyUC9p8ve0X9G2qzkyYehlQ1WAUDMbSXOtahLVQ==",
+  "success": true,
+  "projectFilePath": "/Users/ryan/Desktop/tutorials/FullStackGraphQL/BooksGraphQLClient/BooksGraphQLClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/ryan/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
